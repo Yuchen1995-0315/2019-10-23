@@ -17,6 +17,5 @@ print("摄氏温度——》开氏温度")
 centigrade = float(input("请输入摄氏温度："))
 kelvin_result = centigrade + 273.15
 
-print("开氏温度为"+str(kelvin_result))
 
 
