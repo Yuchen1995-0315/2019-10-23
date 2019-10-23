@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1026b72-4c04-4c0b-ae62-9cf0e779f9cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02python_basic.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02python_basic.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/homework01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/homework02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/pro01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/text12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/homework01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/homework02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/homework03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/practice17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/homework01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/homework02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/homework03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/text15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/demo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/homework01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/homework02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/homework03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/homework04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/text07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/text01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/text02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/work02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/exercise.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/exercise02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/exercise07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/game_2048/bll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/game_2048/game_doc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/game_2048/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/game_2048/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/game_2048/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/project_month01/bll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/project_month01/game2048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/commn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/commn/iterable_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/demon03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9/review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part 2/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part 2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/part 2/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,16 +84,28 @@
         <entry file="file://$PROJECT_DIR$/part 2/hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part 2/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part 2/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -219,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day04/text09.py" />
         <option value="$PROJECT_DIR$/day04/text10.py" />
         <option value="$PROJECT_DIR$/day04/text11.py" />
         <option value="$PROJECT_DIR$/day04/text12.py" />
@@ -270,10 +175,11 @@
         <option value="$PROJECT_DIR$/day10/review.py" />
         <option value="$PROJECT_DIR$/part 2/hello.py" />
         <option value="$PROJECT_DIR$/part 2/.gitignore" />
+        <option value="$PROJECT_DIR$/part 2/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="116" />
     <option name="width" value="1178" />
@@ -319,13 +225,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day11" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day11/project_month01" />
       <recent name="$PROJECT_DIR$/day11" />
       <recent name="$PROJECT_DIR$/day10" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day11" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -547,11 +454,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day03/practice14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day03/practice13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -876,14 +778,24 @@
     <entry file="file://$PROJECT_DIR$/part 2/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/part 2/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
